@@ -13,6 +13,11 @@ Adds a customizable background image to the WordPress admin with live preview, o
 
 Upload to `/wp-content/plugins/` and activate.
 
+## Screenshots
+
+![Admin Background Preview 1](screenshot-1.png)
+![Admin Background Preview 2](screenshot-2.png)
+
 ## License
 
 GPLv2 or later
